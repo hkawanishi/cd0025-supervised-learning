@@ -1,3 +1,10 @@
+# This project is a part of Udacity: Introduction to Machine Learning with TensorFlow Nanodegree Program.
+
+My updated file is in finding_donors/ folder.
+The only finding_donors.ipynb is editted so far.
+
+This repository is forked from udacity/cd0025-supervised-learning which contains some starter files for this project.
+
 # Supervised Learning (cd0025)
 
  Content for Udacity's Supervised Learning curriculum, which includes project starter files.
